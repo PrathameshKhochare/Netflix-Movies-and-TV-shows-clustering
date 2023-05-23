@@ -51,7 +51,8 @@ description: The Summary description
          * Text Normalization
          * Part of speech tagging
          * Text Vectorization
-    3.Dimesionality Reduction      
+    3.Dimesionality Reduction
+    
 7. ML Model Implementation
          1.K-Means Clustering
          2.Hierarchial Clustering
