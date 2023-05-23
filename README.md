@@ -28,12 +28,12 @@ description: The Summary description
 1. Know Your Data
 2. Understanding your Data
 3. Data Wrangling
-     Handling null values
-     Handling duplicate values
-     Removing Outliers
-     Feature engineering
-     Binning
-     Typecasting
+     * Handling null values
+     * Handling duplicate values
+     * Removing Outliers
+     * Feature engineering
+     * Binning
+     * Typecasting
 4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
     * Univariate
     * Bivariate
@@ -42,15 +42,15 @@ description: The Summary description
 6.Feature Engineering & Data Pre-processing
     1.Handling Missing Values
     2.Textual Data Preprocessing
-         Expand Contraction
-         Lower Casing
-         Removing Punctuations
-         Removing URLs & Removing words and digits contain digits.
-         Removing Stopwords & Removing White spaces
-         Tokenization
-         Text Normalization
-         Part of speech tagging
-         Text Vectorization
+         * Expand Contraction
+         * Lower Casing
+         * Removing Punctuations
+         * Removing URLs & Removing words and digits contain digits.
+         * Removing Stopwords & Removing White spaces
+         * Tokenization
+         * Text Normalization
+         * Part of speech tagging
+         * Text Vectorization
     3.Dimesionality Reduction      
 7.ML Model Implementation
         1.K-Means Clustering
