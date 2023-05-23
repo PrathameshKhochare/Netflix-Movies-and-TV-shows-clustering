@@ -54,10 +54,10 @@ description: The Summary description
     3.Dimesionality Reduction
     
 7.ML Model Implementation
-       * K-Means Clustering
-       * Hierarchial Clustering
-       * DBSCAN
-       * Recommendaton System
+     * K-Means Clustering
+     * Hierarchial Clustering
+     * DBSCAN
+     * Recommendaton System
          
 8.Conclusion
 
