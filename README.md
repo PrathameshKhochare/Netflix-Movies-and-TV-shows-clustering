@@ -72,7 +72,7 @@ My Email Id - khochareprathamesh10@gmail.com
 
 # Conclusion:
 
-1. Conclusions Drawn from EDA -:
+**1. Conclusions Drawn from EDA -:**
 Based on the exploratory data analysis (EDA) of the Netflix movies and TV shows clustering dataset, we have drawn the following conclusions:
 
 * The Netflix dataset contains a larger percentage of **movies (70%)** compared to **TV shows (30%)**.
@@ -91,7 +91,7 @@ Based on the exploratory data analysis (EDA) of the Netflix movies and TV shows 
 * **Adult and teen** categories are the most prevalent on Netflix, with **family-friendly** content being more common in **TV shows** than in movies.
 * Most countries produce content related to **adult and teen** categories, with **India** having **less adult** content than teen content. Spain produces the most adult content, while **Canada** produces more content related to **children and family-friendly** categories.
 
-2.Conclusions drawn from ML Model
+**2.Conclusions drawn from ML Model -:**
 
 We have implimented 4 models for ML
 
