@@ -35,9 +35,9 @@ description: The Summary description
      Binning
      Typecasting
 4. Data Vizualization, Storytelling & Experimenting with charts : Understand the relationships between variables
-    Univariate
-    Bivariate
-    Multivariate
+    * Univariate
+    * Bivariate
+    * Multivariate
 5.Hypothesis Testing
 6.Feature Engineering & Data Pre-processing
     1.Handling Missing Values
