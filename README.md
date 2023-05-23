@@ -54,11 +54,13 @@ description: The Summary description
     3.Dimesionality Reduction
     
 7.ML Model Implementation
-         * 1.K-Means Clustering
-         * 2.Hierarchial Clustering
-         * 3.DBSCAN
-         * 4.Recommendaton System
+         * K-Means Clustering
+         * Hierarchial Clustering
+         * DBSCAN
+         * Recommendaton System
+         
 8.Conclusion
+
 9.Future Work        
 ![image](https://github.com/PrathameshKhochare/Netflix-Movies-and-TV-shows-clustering/assets/121234763/1f8b6a2d-1440-4dfe-aae6-19956fd08b39)
 
